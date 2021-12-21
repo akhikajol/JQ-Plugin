@@ -1,0 +1,40 @@
+/* animate__fadeInUp */
+body{
+    background-color: rgb(204, 197, 197);
+}
+h2{
+    font-size:80px ;
+
+}
+.counter{
+  font-size: 50px ;
+  color: rgb(165, 32, 32);
+
+}
+/* wow js start */
+.box{
+    margin-top: 10px;
+    height: 300px;
+}
+/* aos */
+.box2{
+  height: 300px;
+  background-color: red;
+}
+/* parallax js  */
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+/* curved text  */
+/**
+ * Text 1
+ */
+ #text1
+ {
+     margin:           3.0em 0.0em;
+     overflow:         hidden;
+     color:            #ffffff;
+     background-color: #0f3b55;
+ }
